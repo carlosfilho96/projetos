@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa...</title>
+    <style>
+        body {
+            background-color: rgb(74, 74, 168);
+            color: rgb(255, 255, 255);
+            font: normal 20pt Arial;
+        }
+        h1 {
+            color: rgb(241, 14, 14); /* Comentário em CSS */
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1> <!-- Isso é um comentário -->
+    <p>Já me livrei da maldição</p>
+    <script>
+        /*
+        Number.parseFloat
+        Number.parseInt
+        String(s)
+        s.toString
+        */
+        var n1 = Number(window.prompt('Digite um número: ')) // String
+        var n2 = Number(window.prompt('Digite outro número')) // String
+        var s = n1 + n2
+        //window.alert('A soma dos valores é: ' + s)
+        window.alert(`A soma entre ${n1} e ${n2} é ${s}`)
+        // (number + number) para adição
+        // (string + string) para concatenação
+        // Template String
+        // `O aluno ${nome} com ${idade} anos, tirou a ${nota}`
+
+        /*
+        s.length // quantos caracteres a string tem
+        s.toUpperCase() // tudo para 'MAIÚSCULAS'
+        s.toLowerCase() // tudo para 'minúsculas'
+        */
+    </script>
+</body>
+</html>

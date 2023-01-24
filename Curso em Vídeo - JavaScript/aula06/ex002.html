@@ -12,17 +12,16 @@
             font: normal 20pt Arial;
         }
         h1 {
-            color: rgb(241, 14, 14);
+            color: rgb(241, 14, 14); /* Comentário em CSS */
         }
     </style>
 </head>
 <body>
-    <h1>Olá, mundo!</h1>
+    <h1>Olá, mundo!</h1> <!-- Isso é um comentário -->
     <p>Já me livrei da maldição</p>
     <script>
-        window.alert('Minha primeira mensagem!')
-        window.confirm('Está gostando de JS?') // Janela com botão Ok e Cancelar
-        window.prompt('Qual é seu nome?') // Vai perguntar o nome...
+        var nome = window.prompt('Qual é seu nome?') // Vai perguntar o nome...
+        window.alert('É um grande prazer em te conhecer, ' + nome + '!') // Concatenação
     </script>
 </body>
 </html>
