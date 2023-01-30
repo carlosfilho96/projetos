@@ -1,0 +1,42 @@
+https://www.ev.org.br/cursos
+
+Módulo 01 - Introdução
+
+- World Wide Web
+- O que é home page
+- Os principais protocolos e suas funções
+- URL Sistema de endereçamento
+
+A Internet e a intranet: A internet é uma rede mundial de computadores que permite ao usuário obter informações e se comunicar com pessoas do mundo todo.
+Já a intranet é uma rede privada que permite ao usuario interagir com pessoas de uma mesma organização.
+
+A  World Wide Web (WWW): Conhecida como web, é um sistema de informação que une dados de varios serviços de internet.
+Enquanto a internet refere-se aos componentes fisicos da rede global, a web refere-se ao corpo da informação compartilhada por esta rede, ou seja, à páginas web (conteúdos) que você acessa quando visita um site.
+O acesso aos sites ocorre por meio de browsers (navegadores) que são programas utiizados para acessar e interagir com páginas web. Navegadores de diferentes plataforma interpretam e exibem paginas web. Ex: Google Chrome, Internet Explorer e Mozilla Firefox.
+
+Servidores web: São computadores robustos com programas que processam pedidos recebidos dos navegadores.
+
+O que é uma home page: É a primeira página recebida de um site por um servidor web. Por exemplo, quando voce acessa o site da Escola Virtual http://www.ev.org.br pode não saber especificar um nome de arquivo. Nestres casos, o servidor web exibirá um arquivo padrão que é a home page ou página principal.
+Uma home page é normalmente chamada de index.htm ou de default.htm. Os arquivos também podem possuir a extensão .html como padrão.
+
+Protocolos: São um conjunto de regras para a comunicação em rede. Eles determinam como computadores se comunicam: como iniciar, como manter e como encerar a comunicação.
+
+=> HTTP: Hyper Text Transfer Protocol (HTTP) é o protocolo usado pelos servidores web para transmitir documentos HTML pela internet.
+
+=> FTP: File Transfer Protocol (FTP) é outro protocolo muito utilizado para transmitir arquivos, porém sua interface gráfica não é tão agradavel como o HTTP.
+
+=> TCP: Transfer Control Protocol (TCP) é um conjunto de protocolos para a transmissão de informação pela web, com função de verificar se os dados são transferidos de forma correta, na sequência apropriada e sem erros.
+
+=> IP: Internet Protocol é um protocolo de endereçamento, que fornece o endereço dos computadores na rede.
+
+Sistema de endereçamento: Universal Resource Locator (URL) é o sistema de endereçamento usado pelos navegadores para localizar redes, computadores e arquivos na internet. Uma URL especifica: http://www.ev.org.br/Paginas/Home.aspx
+
+http:// => Protocolo HTTP, protocolo a ser usado para acessar o arquivo
+www.ev.org.br => Endereço do servidor
+/Paginas/ => Subárea do servidor onde se encontra o arquivo
+Home.aspx => Nome do arquivo no servidor
+
+Para criar páginas web com textos descritivos e informações separadamente, utilizamos uma linguagem de marcação. As páginas web são armazenadas em arquivos com a extensão htm ou html. Isto assegura que elas serão acessriveis por qualquer tipo de navegador e de qualquer parte do mundo.
+
+Resumo:
+Neste módulo, você aprendeu sobre os conceitos básicos da web, tais como: World Wide Web, O que é home page, Os principais protocolos e suas funções, URL - sistema de endereçamento.
